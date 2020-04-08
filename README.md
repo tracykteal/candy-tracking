@@ -24,5 +24,4 @@ is observed per day, but there are some days where there may be more than one ob
 
 ## Contributing Guidelines
 
-Our [contributing guidelines] are adapted from [opensource.guides Contributing document](https:\
-//github.com/github/opensource.guide/blob/master/CONTRIBUTING.md) and describe our processes and expecations for contributing. 
+Our [contributing guidelines](CONTRIBUTING.md) are adapted from [opensource.guides Contributing document](https://github.com/github/opensource.guide/blob/master/CONTRIBUTING.md) and describe our processes and expecations for contributing. 
