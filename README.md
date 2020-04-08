@@ -1,12 +1,15 @@
 # candy-tracking
 Tracking candy type distribution
 
+Project inspired by Karl Broman's [FruitSnacks](https://github.com/kbroman/FruitSnacks/) project, along with of course many other people and classes we've
+taken throughout our lives.
+
 ## Code License
 We carefully considered several license choices for this project
 
-BSD3 - people can take and reuse without attribution
-GPL - some people won't touch code with a 10 foot pole
-Apache license - people who add to your code can't add patented things in
+- BSD3 - people can take and reuse without attribution
+- GPL - some people won't touch code with a 10 foot pole
+- Apache license - people who add to your code can't add patented things in
 
 After going through these consideration, we chose the BSD3 license for this project.
 
