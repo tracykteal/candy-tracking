@@ -21,3 +21,8 @@ was the clear choice.
 ### mnm-data
 This is data collected from the 'Fun Size' M and M packages. The color of each MandM is counted and entered into the relevant column. Typically one package
 is observed per day, but there are some days where there may be more than one observation. Each package observed has a unique identifier.
+
+## Contributing Guidelines
+
+Our [contributing guidelines] are adapted from [opensource.guides Contributing document](https:\
+//github.com/github/opensource.guide/blob/master/CONTRIBUTING.md) and describe our processes and expecations for contributing. 
