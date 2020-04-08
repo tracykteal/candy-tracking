@@ -15,3 +15,9 @@ After going through these consideration, we chose the BSD3 license for this proj
 There are also many considerations for data licensing. Here however, there 
 was not much debate. As someone closely connected with the Dryad project, CC0
 was the clear choice.
+
+## Data metadata
+
+### mnm-data
+This is data collected from the 'Fun Size' M and M packages. The color of each MandM is counted and entered into the relevant column. Typically one package
+is observed per day, but there are some days where there may be more than one observation. Each package observed has a unique identifier.
